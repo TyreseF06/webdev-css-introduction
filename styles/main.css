@@ -1,0 +1,23 @@
+.highlight{
+    color: red;
+}
+.thirdpara{
+    background-color: olivedrab
+}
+
+nav li a:link{
+    text-decoration:none;
+    color:#000000;
+}
+nav li a:visited{
+    text-decoration:none;
+    color:#CCCCCC;
+}
+nav li a:hover{
+    text-decoration:underline;
+    color:#66CC00;
+}
+nav li a:active{
+    text-decoration:underline;
+    color:#CC6600;
+}
