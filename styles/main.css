@@ -9,6 +9,14 @@ body{
     background-color: olivedrab
 }
 
+.section{
+    border-style: solid;
+    border-radius: 30px;
+    border-color: olivedrab;
+    background-color: olivedrab;
+    padding: 20px;
+}
+
 nav li a:link{
     text-decoration:none;
     color:#000000;
@@ -24,4 +32,9 @@ nav li a:hover{
 nav li a:active{
     text-decoration:underline;
     color:#CC6600;
+}
+
+.foot{
+    background-color: olivedrab;
+
 }
